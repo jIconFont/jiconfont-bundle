@@ -42,6 +42,7 @@ public class Bundle {
         list.add(Entypo.getIconFont());
         list.add(FontAwesome.getIconFont());
         list.add(Iconic.getIconFont());
+        list.add(Typicons.getIconFont());
         return list;
     }
 
@@ -66,6 +67,9 @@ public class Bundle {
             list.add(icon);
         }
         for (IconCode icon : Iconic.values()) {
+            list.add(icon);
+        }
+        for (IconCode icon : Typicons.values()) {
             list.add(icon);
         }
 
