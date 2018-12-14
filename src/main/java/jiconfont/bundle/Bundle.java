@@ -2,10 +2,15 @@ package jiconfont.bundle;
 
 import jiconfont.IconCode;
 import jiconfont.IconFont;
-import jiconfont.icons.*;
 
 import java.util.ArrayList;
 import java.util.List;
+import jiconfont.icons.elusive.Elusive;
+import jiconfont.icons.entypo.Entypo;
+import jiconfont.icons.font_awesome.FontAwesome;
+import jiconfont.icons.google_material_design_icons.GoogleMaterialDesignIcons;
+import jiconfont.icons.iconic.Iconic;
+import jiconfont.icons.typicons.Typicons;
 
 /**
  * Copyright (c) 2016 jIconFont <BR>
