@@ -6,6 +6,11 @@ import jiconfont.icons.*;
 
 import java.util.ArrayList;
 import java.util.List;
+import jiconfont.icons.elusive.Elusive;
+import jiconfont.icons.entypo.Entypo;
+import jiconfont.icons.googlematerialdesign.GoogleMaterialDesignIcons;
+import jiconfont.icons.openiconic.Iconic;
+import jiconfont.icons.typicons.Typicons;
 
 /**
  * Copyright (c) 2016 jIconFont <BR>
